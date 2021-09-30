@@ -5,7 +5,7 @@ To run this program, make sure that Python3 is installed and working.
 Then, from the it3038c-scripts directory, run the program using Python:
 Python project1/calculator.py
 
-You will first be promped to select which mathematical operation you would like to use (*, +, -, /)
+You will first be promped to select which mathematical operation you would like to use (*, +, -, /, **)
 
 Once you select an operation, you'll then be prompted to input any number you'd like and then prompted once more for a second number.
 
