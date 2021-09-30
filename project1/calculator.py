@@ -5,6 +5,7 @@ Select the math operation you would like to use:
 - for subtraction
 / for division
 * for multiplication
+** for raising a number to a power
 ''')
 
     number_1 = int(input('Enter the first number: '))
@@ -29,6 +30,11 @@ Select the math operation you would like to use:
     elif operation == '*':
           print('{} * {} = '.format(number_1, number_2))
           print(number_1 * number_2)
+
+#Power    
+    elif operation == '**':
+          print('{} ** {} = '.format(number_1, number_2))
+          print(number_1 ** number_2)      
 
     else:
           print('You entered an operation we cannot do. Sorry, try again!')
