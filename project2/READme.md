@@ -18,6 +18,8 @@ To move up, the user must hit the "i" key.
 
 To move down, the user must hit the "k" key.
 
+For each time the snake gets a meal, a square is added to the snake's body, making it more difficult for the user to navigate and avoid hitting the wall.
+
 The user can play the game as long as they want to achieve a new high score or stop the game any time they want by clicking the "X" in the top right hand corner.
 
 Citations: https://boingboing.net/2018/09/04/learn-how-to-program-snake-usi.html
