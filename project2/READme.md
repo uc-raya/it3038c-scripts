@@ -1,4 +1,4 @@
-For my project I chose to write a script that lets user play a game that involves using the keyboard to move a snake around and eat as many meals as possible to achieve a high score.
+For my project I chose to write a script that lets users play a game that involves using the keyboard to move a snake around and eat as many meals as possible to achieve a high score.
 
 To run this program, make sure that Python3 is installed and working.
 
