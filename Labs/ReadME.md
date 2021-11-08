@@ -4,7 +4,7 @@ First, you need to open up powershell and install the PSWindowsUpdate module wit
 
 Install-Module -Name PSWindowsUpdate
 
-Next, create a Powershell script. This script will show all available Windows updates for your machine and then allow you install all of them at once. Inside the script, write the following line of code:
+Next, create a Powershell script. This script will show all available Windows updates for your machine and then allow you install all of them at once. Inside the script, write the following lines of code:
 
 Get-WindowsUpdate
 
