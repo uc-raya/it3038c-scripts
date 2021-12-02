@@ -2,7 +2,7 @@ This project uses the flask app to generate a mad libs story for the user. It bu
 It takes input from the user with a form, and then it ouputs it in the format of a mad lib story. 
 
 
-For my final project to work, you need to download everything within the final folder (routes.py, web.py, and the templates folder)
+For my final project to work, you need to download everything within the "Final" folder (routes.py, web.py, and the templates folder)
 Do not remove anything from the templates folder, they need to remain in that folder for it to work. 
 
 #BEFORE RUNNING
