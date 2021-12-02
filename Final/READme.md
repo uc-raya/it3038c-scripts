@@ -8,7 +8,8 @@ Do not remove anything from the templates folder, they need to remain in that fo
 #BEFORE RUNNING
 
 You will need to install flask if you already haven't from our previous lab:
-In the command prompt enter
+
+In the command prompt enter:
 
 py -3 -m venv venv
 
