@@ -17,7 +17,8 @@ venv\Scripts\activate.ps1
 pip install flask
 
 python web.py
-#Before python web.py you will need to cd to into the directory that you downloaded it to
+
+Before python web.py you will need to cd to into the directory that you downloaded it to
 
 #AFTER FLASK INSTALL
 Make sure that your VENV is activated and that you are in the right directory.
