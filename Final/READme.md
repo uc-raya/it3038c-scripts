@@ -6,7 +6,7 @@ For my final project to work, you need to download everything within the "Final"
 
 Do not remove anything from the templates folder, they need to remain in that folder for it to work. 
 
-#BEFORE RUNNING
+#BEFORE INSTALLING:
 
 You will need to install flask if you already haven't from our previous lab:
 
@@ -22,7 +22,7 @@ python web.py
 
 Before running the command "python web.py" you will need to cd to into the directory that you downloaded it to.
 
-#AFTER FLASK INSTALL
+#AFTER INSTALLING FLASK:
 
 Make sure that your VENV is activated and that you are in the correct directory.
 
