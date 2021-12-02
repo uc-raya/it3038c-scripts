@@ -2,12 +2,12 @@ This project uses the flask app to generate a mad libs story for the user. It bu
 It takes input from the user using a form, and then it ouputs it in the form of a mad lib story. 
 
 
-For my final, you need to download everything within the final folder (routes.py, web.py, and the templates folder)
+For my final project to work, you need to download everything within the final folder (routes.py, web.py, and the templates folder)
 Do not remove anything from the templates folder, they need to remain in that folder for it to work. 
 
 #BEFORE RUNNING
 
-You will need to install flask if you haven't from our previous lab:
+You will need to install flask if you already haven't from our previous lab:
 In the command prompt enter
 
 py -3 -m venv venv
@@ -18,10 +18,10 @@ pip install flask
 
 python web.py
 
-Before python web.py you will need to cd to into the directory that you downloaded it to
+Before running the command "python web.py" you will need to cd to into the directory that you downloaded it to.
 
 #AFTER FLASK INSTALL
 Make sure that your VENV is activated and that you are in the right directory.
 
 Once you run the command "python web.py", you can navigate to localhost:5000 in the browser and it will ask you to input information. 
-After that, click submit and the mad libs story will appear. 
+After that, click submit and the mad libs story will appear with the answers you gave. 
