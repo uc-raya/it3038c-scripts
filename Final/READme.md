@@ -26,6 +26,6 @@ Before running the command "python web.py" you will need to cd to into the direc
 
 Make sure that your VENV is activated and that you are in the correct directory.
 
-Once you run the command "python web.py", you can navigate to localhost:5000 in your web browser and it will ask you to input information. 
+Once you run the command "python web.py", you can navigate to localhost:5000 in your web browser and it will ask you to submit information. 
 
 After that, click submit and the mad libs story will appear with the answers you gave. 
